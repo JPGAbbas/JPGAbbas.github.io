@@ -15,10 +15,10 @@ html,body{
 #des{
     color: grey;
 }
-h1,h2{
+h1,h2,h3,h4{
     font-family: 'Epilogue',sans-serif;
 }
-p1{
+p1,p2{
     font-family: 'Inter', sans-serif;
 }
 h2{
@@ -44,4 +44,12 @@ h2{
 {
     background-color:rgb(15,145,244,0.5);
     height: 30%;
+}
+#start{
+    text-align: left;
+}
+#colo{
+    background-color: grey;
+    height:40%;
+    opacity:0.09;
 }
